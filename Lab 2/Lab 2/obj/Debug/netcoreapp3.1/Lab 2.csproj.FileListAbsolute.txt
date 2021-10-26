@@ -1,0 +1,14 @@
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.exe
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.deps.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.dev.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.AssemblyReference.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfoInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfo.cs
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.genruntimeconfig.cache
