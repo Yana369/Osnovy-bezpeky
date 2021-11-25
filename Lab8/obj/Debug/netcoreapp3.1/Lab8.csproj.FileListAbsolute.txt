@@ -1,0 +1,14 @@
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.AssemblyReference.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
