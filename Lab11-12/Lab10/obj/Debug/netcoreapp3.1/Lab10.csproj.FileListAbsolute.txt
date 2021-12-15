@@ -1,0 +1,42 @@
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.AssemblyReference.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\БестПК\Desktop\Навчання 2 курс\Безпека\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.AssemblyReference.cache
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\38067\Downloads\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.AssemblyReference.cache
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\БестПК\Desktop\Lab11-12\Lab11-12\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache
